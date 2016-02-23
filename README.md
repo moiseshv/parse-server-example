@@ -1,9 +1,9 @@
 # Demo application backend based on parse-Server example. 
-# Using Express for routing public data and connecting to MongoDB server.
-# Very nice for testing mobile and web application without any kind of code on server side.
+### Using Express for routing public data and connecting to MongoDB server.
+### Very nice for testing mobile and web application without any kind of code on server side.
 
-# Parse-Server make all dirty work for you.
-# You can use this application to make your own backend services and host your public files at the same time.
+### Parse-Server make all dirty work for you.
+### You can use this application to make your own backend services and host your public files at the same time.
 
 
 1. Resove CRUD delete, insert and Update all your model using REST API
